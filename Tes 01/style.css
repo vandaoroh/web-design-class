@@ -55,3 +55,15 @@ div.nav{
     font-size: 2em;
     text-align: center;
 }
+
+@media screen and (min-width: 576px) {
+    body {
+      background-color: #FFF3E4;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    body {
+      background-color: #EED6C4;
+    }
+  }
